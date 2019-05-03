@@ -1,7 +1,10 @@
 # Instruction of Benchmark_control package
-%Remaind: Please install gurobi before running our code (http://www.gurobi.com/)
-%Remaind: Please install gurobi before running our code (http://www.gurobi.com/)
-%Remaind: Please install gurobi before running our code (http://www.gurobi.com/)
+
+%Remaind: Please install gurobi before running our code (http://www.gurobi.com/);
+%Remaind: Please install gurobi before running our code (http://www.gurobi.com/);
+%Remaind: Please install gurobi before running our code (http://www.gurobi.com/);
+
+
 This package includes Matlab scripts and several datasets for demo of PDC approach:
 (a)	main_Benchmark_control.m is a Matlab function for the routine of experimental analysis.
 (b)  benchmark_control.m is the main script to call Benchmark_control
