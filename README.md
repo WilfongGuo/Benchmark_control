@@ -22,7 +22,7 @@ This package includes Matlab scripts and several datasets for demo of network co
 
 %if index=3,we use SPCC 
 
-%if index=2,we use LIONESS
+%if index=4,we use LIONESS
 
 The output datasets include: The sample-specific driver profiles (matrix) by using MMS,MDS,NCU,NCD； For “MMS or MDS,NCU,NCD”, the column is the samples and the rows is the genes. The value “1” denoted that the gene is driver genes; 
 
